@@ -43,8 +43,7 @@ I enjoy building projects where **software, AI, electronics and real-world probl
 ## 🏆 Achievements
 
 - 🥇 **1st Prize — GeeksforGeeks Hackathon (2026)**
-- 🥇 **1st Place — Hack-4-Viksit Bharat** with **Trust-Tag**
-- 🚀 Built and presented projects across multiple hackathons and engineering competitions
+- Built and presented projects across multiple hackathons and engineering competitions
 
 ---
 
@@ -79,20 +78,6 @@ Satellite-data based project exploring **cloud-cluster identification and remote
 - 📊 Data analytics
 - 💳 FinTech & quantitative technologies
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RAJARYANSINGH0059&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJARYANSINGH0059&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center"><img src="https://raw.githubusercontent.com/RAJARYANSINGH0059/RAJARYANSINGH0059/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation" /></div>
 
 ---
 
