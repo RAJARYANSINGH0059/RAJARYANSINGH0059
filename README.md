@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 <div>
-<img align="right" src="./assets/raj-profile.jpg" width="180" alt="Raj Aryan Singh illustrated profile" />
+
 
 I'm a **second-year B.Tech student in Electronics & Communication Engineering** at the **Faculty of Technology, University of Delhi**, with a **Minor in Artificial Intelligence & Machine Learning**.
 
