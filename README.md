@@ -16,6 +16,9 @@
 
 ## 👨‍💻 About Me
 
+<div>
+<img align="right" src="./assets/raj-profile.jpg" width="180" alt="Raj Aryan Singh illustrated profile" />
+
 I'm a **second-year B.Tech student in Electronics & Communication Engineering** at the **Faculty of Technology, University of Delhi**, with a **Minor in Artificial Intelligence & Machine Learning**.
 
 I enjoy building projects where **software, AI, electronics and real-world problem solving** meet.
@@ -28,6 +31,10 @@ I enjoy building projects where **software, AI, electronics and real-world probl
 - 💳 FinTech, data & quantitative technology
 
 > **Build → Experiment → Learn → Improve**
+
+</div>
+
+<br clear="right" />
 
 ---
 
@@ -77,7 +84,6 @@ Satellite-data based project exploring **cloud-cluster identification and remote
 - ⚡ Embedded systems and communication
 - 📊 Data analytics
 - 💳 FinTech & quantitative technologies
-
 
 ---
 
